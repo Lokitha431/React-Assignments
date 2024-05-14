@@ -1,0 +1,21 @@
+.main-color{
+    border: solid 2px black;
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: italic;
+}
+h1{
+    color: greenyellow;
+    text-shadow: 5px 5px 5px purple;
+    font-size: 50px;
+}
+input{
+    border: solid 2px black;
+    height: 20px;
+    width: 200px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
