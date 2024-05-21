@@ -1,0 +1,68 @@
+.App{
+    border: solid 5px rgb(22, 180, 180);
+    align-items: center;
+    padding: 20px;
+    margin: 0px auto;
+    max-width: 600px;
+    font-family: Arial, sans-serif;
+    color: green;
+}
+h1{
+    color: rgb(27, 200, 145);
+    text-shadow: 5px 5px 5px orange;
+    font-size: 40px;
+}
+h2{
+    color: rgb(23, 165, 221);
+    text-shadow: 5px 5px 5px black;
+    font-size: 40px;
+}
+form div label{
+    display: inline-block;
+    width: 90px;
+    color: rgb(204, 12, 76);
+}
+div label{
+    display: inline-block;
+    width: 100px;
+    color: rgb(231, 133, 14);
+}
+form div{
+    margin-bottom: 20px;
+}
+form div input{
+    padding: 5px;
+    border: solid 3px purple;
+    width: 180px;
+    color: green;
+    font-size: 17px;
+}
+div input{
+    padding: 5px;
+    border: solid 3px rgb(17, 174, 195);
+    color: rgb(69, 6, 44);
+    width: 150px;
+    font-size: 17px;
+}
+ul{
+    list-style: none;
+}
+li{
+    padding: 5px 0;
+    border-bottom: 1px solid #ccc;
+}
+.income{
+    color: rgb(3, 135, 38);
+
+}
+b{
+    color: red;
+    font-size: 25px;
+}
+p{
+    color: black;
+}
+strong{
+    color: green;
+    font-size: 30px;
+}
