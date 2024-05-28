@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    animation-name: rotate;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    color: white;
+    text-shadow: 7px 7px 5px greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+@keyframes rotate{
+    0%{
+        border-radius: 0%;
+        transform: scale(0.5);
+    }
+    100%{
+        border-radius: 0%;
+        transform: scale(1.0);
+    }
+}
+.header{
+    margin: 70px auto;
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    transition: all 2s;
+}
+a:hover{
+    color: greenyellow;
+    transform: scale(1.5);
+}
+.home{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.photo img{
+    width: 70%;
+    height: 300px;
+    width: 300px;
+    animation-name: changeshape;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+}
+@keyframes changeshape {
+    0%{
+        border-radius: 0%;
+        height: 300px;
+    }
+    50%{
+        height: 300px;
+        border-radius: 50%;
+    }
+    100%{
+        border-radius: 0%;
+    }   
+}
+h2{
+    width: 30%;
+    font-size: 40px;
+    font-weight: bold;
+    color: greenyellow;
+    text-shadow: 7px 7px 5px white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}

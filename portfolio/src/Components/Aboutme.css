@@ -1,0 +1,19 @@
+h3{
+    color: rgb(255, 80, 162);
+    font-size: 25px;
+}
+.about{
+    width: 40%;
+    text-align: center;
+    margin: 20px auto auto auto;
+}
+.about:hover{
+    background-color: blue;
+    box-shadow: 10px 10px 5px white;
+    border-radius: 15px;
+}
+p{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
