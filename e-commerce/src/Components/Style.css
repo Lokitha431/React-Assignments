@@ -1,0 +1,72 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url('./Background.png');
+    background-size: cover; /* Or 'contain', depending on your needs */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    color: purple;
+    height: 70px;
+    margin: 0px;
+    text-shadow: 5px 5px 5px greenyellow;
+    /* background-color: antiquewhite; */
+}
+.list{
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style-type: none; 
+    margin: 0px;
+    font-size: 25px;
+    /* background-color: aqua; */
+}
+.list a{
+    text-decoration: none;
+    color: brown;
+}
+img{
+    height: 25px;
+    width: 25px;
+}
+center{
+    margin-top: -20px;
+    padding: 10px;
+}
+input{
+    height: 30px;
+    width: 200px;
+    border-radius: 7px;
+    color: peru;
+}
+.product{
+    height: 30px;
+    border-radius: 10px;
+    background-color: orange;
+}
+.cart{
+    height: 30px;
+    border-radius: 10px;
+    background-color: orange;
+}
+h2{
+    color: hsl(243, 76%, 30%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+h3{
+    color: rgb(115, 175, 17);
+    font-size: 25px;
+}
+p{
+    color: rgb(163, 27, 141);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
