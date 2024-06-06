@@ -6,7 +6,7 @@ const CheckoutPage = ({ cart }) => {
   return (
     <div>
       <h2>Checkout Page</h2>
-      <div>
+      <div className='product'>
         <h3>Summary</h3>
         <p>Total Items: {totalQuantity}</p>
         <p>Total Price: ${totalPrice}</p>
