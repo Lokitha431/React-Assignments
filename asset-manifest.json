@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Lokitha431/React-Assignments/static/css/main.12bcdc4c.css",
+    "main.js": "/Lokitha431/React-Assignments/static/js/main.337a8e81.js",
+    "static/js/453.0297a6b4.chunk.js": "/Lokitha431/React-Assignments/static/js/453.0297a6b4.chunk.js",
+    "static/media/tops.jpg": "/Lokitha431/React-Assignments/static/media/tops.f94c9fe69a41c484ed6d.jpg",
+    "static/media/toys.jpeg": "/Lokitha431/React-Assignments/static/media/toys.a4a24373fe79901fcb05.jpeg",
+    "static/media/Cart.png": "/Lokitha431/React-Assignments/static/media/Cart.c72817d52fe4a4599964.png",
+    "static/media/T-Shirts.webp": "/Lokitha431/React-Assignments/static/media/T-Shirts.bf01af324a2ba1a89f2b.webp",
+    "static/media/partydress.jpg": "/Lokitha431/React-Assignments/static/media/partydress.dffd451efeec91510eab.jpg",
+    "static/media/dryfruits.jpeg": "/Lokitha431/React-Assignments/static/media/dryfruits.f55a43f0129d3c9c40d8.jpeg",
+    "static/media/Checkout.png": "/Lokitha431/React-Assignments/static/media/Checkout.ff0575907fd41e538545.png",
+    "static/media/realme.jpeg": "/Lokitha431/React-Assignments/static/media/realme.c954a517f1584670f3ed.jpeg",
+    "static/media/earrings.jpeg": "/Lokitha431/React-Assignments/static/media/earrings.e45b6f97c9fab008c133.jpeg",
+    "static/media/lehanga.jpeg": "/Lokitha431/React-Assignments/static/media/lehanga.7e88d70335c7128b0c60.jpeg",
+    "static/media/sarees.jpeg": "/Lokitha431/React-Assignments/static/media/sarees.ffc51646c6187887369a.jpeg",
+    "static/media/bangles.jpeg": "/Lokitha431/React-Assignments/static/media/bangles.08daf132133d29b94cb7.jpeg",
+    "static/media/pant.jpeg": "/Lokitha431/React-Assignments/static/media/pant.f583007195f86358a63b.jpeg",
+    "static/media/cotton.jpeg": "/Lokitha431/React-Assignments/static/media/cotton.3969c5455fef65367bf5.jpeg",
+    "static/media/footwear.jpeg": "/Lokitha431/React-Assignments/static/media/footwear.bdafa8d9ce46ba6847c0.jpeg",
+    "index.html": "/Lokitha431/React-Assignments/index.html",
+    "main.12bcdc4c.css.map": "/Lokitha431/React-Assignments/static/css/main.12bcdc4c.css.map",
+    "main.337a8e81.js.map": "/Lokitha431/React-Assignments/static/js/main.337a8e81.js.map",
+    "453.0297a6b4.chunk.js.map": "/Lokitha431/React-Assignments/static/js/453.0297a6b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12bcdc4c.css",
+    "static/js/main.337a8e81.js"
+  ]
+}
