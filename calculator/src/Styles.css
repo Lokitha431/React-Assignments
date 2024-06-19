@@ -1,0 +1,26 @@
+*{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+table{
+    color: darkblue;
+    border: solid 10px rgb(20, 138, 181);
+    height: 500px;
+    width: 350px;
+    margin: auto;
+}
+input{
+    height: 99%;
+    width: 98%;
+    background-color: rgb(149, 61, 14);
+    font-size: 20px;
+}
+input:focus{
+    border: none;
+}
+th{
+    box-shadow: 5px 5px 10px cornflowerblue;
+    background-color: rgb(85, 255, 0);
+}
