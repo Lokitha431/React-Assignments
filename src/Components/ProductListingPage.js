@@ -62,7 +62,7 @@ const ProductListingPage = ({ addToCart }) => {
     { id: 25, name: 'Leggings Set', price: 1200, image: leggings },
     { id: 26, name: 'Skirts', price: 300, image: skirt },
     { id: 27, name: 'Hoodie', price: 1000, image: hoodie },
-    { id: 28, name: 'Kids Toys', price: 1350, image: toys },
+    { id: 28, name: 'Kids Toys', price: 1350, image: toys }, 
     { id: 29, name: 'Foot Wear', price: 1750, image: footwear },
     { id: 30, name: 'Beauty & Health', price: 6000, image: product },
     { id: 31, name: 'Sports & Fitness', price: 5000, image: sports },

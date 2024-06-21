@@ -12,7 +12,7 @@ const CheckoutPage = ({ cart }) => {
         <p>Total Price: ${totalPrice}</p>
       </div>
     </div>
-  );
+  );  
 };
 
 export default CheckoutPage;

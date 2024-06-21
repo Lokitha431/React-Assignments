@@ -13,7 +13,7 @@ const CartPage = ({ cart }) => {
         </thead>
         <tbody>
           {cart.map(item => (
-            <tr key={item.id}>
+            <tr key={item.id}> 
               <td>{item.name}</td>
               <td>{item.quantity}</td>
               <td>${item.price}</td>
