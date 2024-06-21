@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/E-Commerce/static/css/main.12bcdc4c.css",
-    "main.js": "/E-Commerce/static/js/main.e71a1bb2.js",
-    "static/js/453.0297a6b4.chunk.js": "/E-Commerce/static/js/453.0297a6b4.chunk.js",
-    "static/media/tops.jpg": "/E-Commerce/static/media/tops.f94c9fe69a41c484ed6d.jpg",
-    "static/media/toys.jpeg": "/E-Commerce/static/media/toys.a4a24373fe79901fcb05.jpeg",
-    "static/media/Cart.png": "/E-Commerce/static/media/Cart.c72817d52fe4a4599964.png",
-    "static/media/T-Shirts.webp": "/E-Commerce/static/media/T-Shirts.bf01af324a2ba1a89f2b.webp",
-    "static/media/partydress.jpg": "/E-Commerce/static/media/partydress.dffd451efeec91510eab.jpg",
-    "static/media/dryfruits.jpeg": "/E-Commerce/static/media/dryfruits.f55a43f0129d3c9c40d8.jpeg",
-    "static/media/Checkout.png": "/E-Commerce/static/media/Checkout.ff0575907fd41e538545.png",
-    "static/media/realme.jpeg": "/E-Commerce/static/media/realme.c954a517f1584670f3ed.jpeg",
-    "static/media/earrings.jpeg": "/E-Commerce/static/media/earrings.e45b6f97c9fab008c133.jpeg",
-    "static/media/lehanga.jpeg": "/E-Commerce/static/media/lehanga.7e88d70335c7128b0c60.jpeg",
-    "static/media/sarees.jpeg": "/E-Commerce/static/media/sarees.ffc51646c6187887369a.jpeg",
-    "static/media/bangles.jpeg": "/E-Commerce/static/media/bangles.08daf132133d29b94cb7.jpeg",
-    "static/media/pant.jpeg": "/E-Commerce/static/media/pant.f583007195f86358a63b.jpeg",
-    "static/media/cotton.jpeg": "/E-Commerce/static/media/cotton.3969c5455fef65367bf5.jpeg",
-    "static/media/footwear.jpeg": "/E-Commerce/static/media/footwear.bdafa8d9ce46ba6847c0.jpeg",
-    "index.html": "/E-Commerce/index.html",
-    "main.12bcdc4c.css.map": "/E-Commerce/static/css/main.12bcdc4c.css.map",
-    "main.e71a1bb2.js.map": "/E-Commerce/static/js/main.e71a1bb2.js.map",
-    "453.0297a6b4.chunk.js.map": "/E-Commerce/static/js/453.0297a6b4.chunk.js.map"
+    "main.css": "/React-Assignments/static/css/main.12bcdc4c.css",
+    "main.js": "/React-Assignments/static/js/main.981039de.js",
+    "static/js/453.0297a6b4.chunk.js": "/React-Assignments/static/js/453.0297a6b4.chunk.js",
+    "static/media/tops.jpg": "/React-Assignments/static/media/tops.f94c9fe69a41c484ed6d.jpg",
+    "static/media/toys.jpeg": "/React-Assignments/static/media/toys.a4a24373fe79901fcb05.jpeg",
+    "static/media/Cart.png": "/React-Assignments/static/media/Cart.c72817d52fe4a4599964.png",
+    "static/media/T-Shirts.webp": "/React-Assignments/static/media/T-Shirts.bf01af324a2ba1a89f2b.webp",
+    "static/media/partydress.jpg": "/React-Assignments/static/media/partydress.dffd451efeec91510eab.jpg",
+    "static/media/dryfruits.jpeg": "/React-Assignments/static/media/dryfruits.f55a43f0129d3c9c40d8.jpeg",
+    "static/media/Checkout.png": "/React-Assignments/static/media/Checkout.ff0575907fd41e538545.png",
+    "static/media/realme.jpeg": "/React-Assignments/static/media/realme.c954a517f1584670f3ed.jpeg",
+    "static/media/earrings.jpeg": "/React-Assignments/static/media/earrings.e45b6f97c9fab008c133.jpeg",
+    "static/media/lehanga.jpeg": "/React-Assignments/static/media/lehanga.7e88d70335c7128b0c60.jpeg",
+    "static/media/sarees.jpeg": "/React-Assignments/static/media/sarees.ffc51646c6187887369a.jpeg",
+    "static/media/bangles.jpeg": "/React-Assignments/static/media/bangles.08daf132133d29b94cb7.jpeg",
+    "static/media/pant.jpeg": "/React-Assignments/static/media/pant.f583007195f86358a63b.jpeg",
+    "static/media/cotton.jpeg": "/React-Assignments/static/media/cotton.3969c5455fef65367bf5.jpeg",
+    "static/media/footwear.jpeg": "/React-Assignments/static/media/footwear.bdafa8d9ce46ba6847c0.jpeg",
+    "index.html": "/React-Assignments/index.html",
+    "main.12bcdc4c.css.map": "/React-Assignments/static/css/main.12bcdc4c.css.map",
+    "main.981039de.js.map": "/React-Assignments/static/js/main.981039de.js.map",
+    "453.0297a6b4.chunk.js.map": "/React-Assignments/static/js/453.0297a6b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12bcdc4c.css",
-    "static/js/main.e71a1bb2.js"
+    "static/js/main.981039de.js"
   ]
 }
